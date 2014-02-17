@@ -1,16 +1,16 @@
 { "name": "renren-ronpa"
 , "description": "それは違うよ！！"
 , "version": "0.1.0"
-, "homepage": "https://github.com/smilekzs/renren-ronpa"
+, "homepage": "https://github.com/summivox/renren-ronpa"
 , "author":
-  { "name": "smilekzs"
+  { "name": "summivox"
   }
 , "repository":
   { "type": "git"
-  , "url": "git://github.com/smilekzs/renren-ronpa.git"
+  , "url": "git://github.com/summivox/renren-ronpa.git"
   }
 , "bugs":
-  { "url": "https://github.com/smilekzs/renren-ronpa/issues"
+  { "url": "https://github.com/summivox/renren-ronpa/issues"
   }
 , "licenses":
   [ { "type": "MIT"
